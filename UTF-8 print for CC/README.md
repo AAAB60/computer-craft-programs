@@ -5,7 +5,8 @@
 ## Introduction
 
 A pixel-based UTF-8 printing program  
-![example](.imgs/image1.png)
+![image1](https://github.com/user-attachments/assets/82b2e002-77cf-4805-a326-62ae01ecabc2)
+
 
 > $\color{red} \bf Note:$  
 > The CC compiler reads UTF-8 characters as '?',  
@@ -31,7 +32,7 @@ A pixel-based UTF-8 printing program
 ## 介绍
 
 一个基于像素打印的utf8打印程序
-![example](.imgs/image1.png)
+![image1](https://github.com/user-attachments/assets/82b2e002-77cf-4805-a326-62ae01ecabc2)
 
 > $\color{red} \bf 注意:$ 
 > CC 编译器会把utf8字符读作 '?', 
